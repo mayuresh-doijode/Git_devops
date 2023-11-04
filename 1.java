@@ -1,3 +1,5 @@
 hi thesemis 1.java
 :wq
-second change 
+second change
+thirdchange::wq
+
